@@ -1,0 +1,50 @@
+{
+  "has-more": true,
+  "offset": 280893642,
+  "companies": [
+    {
+      "companyId": 1001,
+      "properties": {
+        "hs_lastmodifieddate": {
+          "value": "20231010"
+        },
+        "lifecyclestage": {
+          "value": "customer"
+        },
+        "cch_client_code": {
+          "value": "TEST1"
+        }
+      }
+    },
+    {
+      "companyId": 1002,
+      "properties": {
+        "hs_lastmodifieddate": {
+          "value": "20230910",
+        }
+      }
+    },
+	{
+      "companyId": 1003,
+      "properties": {
+        "hs_lastmodifieddate": {
+          "value": "20231011"
+        },
+        "lifecyclestage": {
+          "value": "customer"
+        },
+        "cch_client_code": {
+          "value": "TEST3"
+        }
+      }
+    },
+	{
+      "companyId": 1004,
+      "properties": {
+        "hs_lastmodifieddate": {
+          "value": "20231011",
+        }
+      }
+    }
+  ]
+}
